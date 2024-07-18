@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaishu609
+-
 - This is my first Git Repository.
 - Author- Vaishali Joshi 
 
